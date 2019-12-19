@@ -1,0 +1,71 @@
+{
+    "name": "Elastic.io",
+    "description": "Microservices-based iPaaS for real-time data synchronisation across disparate cloud-based and on-premise applications, platforms and databases.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/40-elastic-io.jpg",
+    "tags": [
+        "api service provider",
+        "automation",
+        "have api",
+        "interoperability",
+        "ipaas"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/elastic-io\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Elastic.io",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/40-elastic-io.jpg",
+            "humanURL": "http:\/\/elastic.io",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/elastic-io-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/elastic.io"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.elastic.io\/blog"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/elastic-io"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/elastic-io"
+        },
+        {
+            "type": "Email",
+            "url": "info@elastic.io"
+        },
+        {
+            "type": "Email",
+            "url": "privacy@elastic.io"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/elasticio"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/elasticio"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.elastic.io\/"
+        }
+    ]
+}
